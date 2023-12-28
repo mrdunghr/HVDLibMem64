@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "HVDLibMem64/1.0.0": {
+      "HVDLibMem64/1.0.1": {
         "runtime": {
           "HVDLibMem64.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "HVDLibMem64/1.0.0": {
+    "HVDLibMem64/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
