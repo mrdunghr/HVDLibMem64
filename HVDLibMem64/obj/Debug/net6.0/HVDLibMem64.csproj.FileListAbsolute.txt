@@ -1,0 +1,11 @@
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\bin\Debug\net6.0\HVDLibMem64.deps.json
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\bin\Debug\net6.0\HVDLibMem64.dll
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\bin\Debug\net6.0\HVDLibMem64.pdb
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.AssemblyInfoInputs.cache
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.AssemblyInfo.cs
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.csproj.CoreCompileInputs.cache
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.dll
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\refint\HVDLibMem64.dll
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\HVDLibMem64.pdb
+C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\obj\Debug\net6.0\ref\HVDLibMem64.dll
