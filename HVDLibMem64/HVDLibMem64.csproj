@@ -4,6 +4,27 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+	<PlatformTarget>x64</PlatformTarget>
+	<Company>HVDLib software</Company>
+	<Product>HVDLibMem64</Product>
+	<Authors>HVD</Authors>
+	<Description>Tiện ích bổ sung đơn giản cho các hàm ReadProcessMemory và WriteProcessMemory :)Hãy xem HVD c# trên youtube để xem hướng dẫn</Description>
+	<Copyright>Ghi công cho kênh youtube HVD c#</Copyright>
+	<PackageProjectUrl>https://github.com/mrdunghr/HVDLibMem64</PackageProjectUrl>
+    <PackageIcon>yrnybx982tg81.jpg</PackageIcon>
+    <RepositoryUrl>https://github.com/mrdunghr/HVDLibMem64</RepositoryUrl>
+    <PackageTags>HVD</PackageTags>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <None Include="C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\yrnybx982tg81.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

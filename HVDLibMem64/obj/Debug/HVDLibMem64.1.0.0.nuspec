@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HVDLibMem64</id>
+    <version>1.0.0</version>
+    <authors>HVD</authors>
+    <icon>yrnybx982tg81.jpg</icon>
+    <projectUrl>https://github.com/mrdunghr/HVDLibMem64</projectUrl>
+    <description>Tiện ích bổ sung đơn giản cho các hàm ReadProcessMemory và WriteProcessMemory :)Hãy xem HVD c# trên youtube để xem hướng dẫn</description>
+    <copyright>Ghi công cho kênh youtube HVD c#</copyright>
+    <tags>HVD</tags>
+    <repository type="git" url="https://github.com/mrdunghr/HVDLibMem64" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\bin\Debug\net6.0\HVDLibMem64.dll" target="lib\net6.0\HVDLibMem64.dll" />
+    <file src="C:\Users\zxgak\source\repos\HVDLibMem64\HVDLibMem64\yrnybx982tg81.jpg" target="\yrnybx982tg81.jpg" />
+  </files>
+</package>
